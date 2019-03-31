@@ -10,5 +10,5 @@ var uppercase ="Hello!"
 uppercase.toUpperCase() === uppercase
 
 function logShout(uppercase){
-  console.log("uppercase").toUpperCase()
+  console.log("${uppercase}")
 }
