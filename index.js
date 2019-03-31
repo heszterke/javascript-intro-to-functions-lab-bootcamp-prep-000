@@ -12,6 +12,6 @@ uppercase.toUpperCase() === uppercase
 
 function logShout(string){
   uppercase = string.toUpperCase()
-  console.log("uppercase")
+  console.log("uppercase");
 }
 
